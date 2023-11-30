@@ -64,6 +64,5 @@ public class DistanceVectorRouting {
 
         System.out.println("\nDistance Matrix after Distance Vector Routing:");
         dvr.printDistanceMatrix();
-        scanner.close();
     }
 }
